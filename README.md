@@ -17,7 +17,7 @@ Fragment → Fragment context → Comment
 
 1. Open Overleaf Code Editor and the Review panel.
 2. Select the source text you want to export.
-3. Paste `overleaf-review-comments-exporter.js` into DevTools Console.
+3. Paste `JS Script` below into DevTools Console.
 4. Run it. A `.md` file downloads automatically.
 
 If Chrome blocks pasting into Console, type `allow pasting` once and paste again.
@@ -26,7 +26,7 @@ If Chrome blocks pasting into Console, type `allow pasting` once and paste again
 
 
 
-## Script
+## JS Script
 
 
 
